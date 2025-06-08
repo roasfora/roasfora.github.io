@@ -1,6 +1,11 @@
 title: Rodrigo Moutinho
-description: Data Engineer | NLP | ML | Analytics
+logo: /assets/profile.png
+description: >
+  Data Analytics Manager @Nestlé | PhD in Data Science Candidate  
+  Specializing in NLP, Machine Learning, and Data Engineering  
+  Passionate about building intelligent data-driven products.
+
 theme: jekyll-theme-minimal
-logo: /assets/img/profile.png
 show_downloads: false
-google_analytics:
+github:
+  is_project_page: false
