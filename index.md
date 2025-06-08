@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Rodrigo Moutinho
-
 **Data Analytics Manager @Nestlé | PhD Candidate in Data Science**  
 🔍 Specializing in Data Engineering, Machine Learning, and NLP
 
