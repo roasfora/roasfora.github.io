@@ -1,4 +1,4 @@
-**Data Analytics Manager @Nestlé | PhD Candidate in Data Science**  
+**Data Analytics Manager @Nestlé | PhD Student @NOVA IMS in Data Science**  
 🔍 Specializing in Data Engineering, Machine Learning, and NLP
 
 ---
@@ -6,12 +6,11 @@
 ## 🚀 About Me
 
 With experience across Telecom, FMCG, and Retail sectors, I help teams deliver intelligent, scalable data solutions.  
-Currently leading analytics efforts at Nestlé Global and teaching data tools to underrepresented communities.
+Currently leading analytics efforts at Nestlé Global and part-time tutor Machine Learning & Data engineering .
 
 - 🧠 PhD Candidate in Data Science
 - 🏢 Analytics Manager (Global Team) @ Nestlé
-- 📚 Tutor for Data Science in EdTech NGOs (EDIT., Toti)
-- 🇵🇹 🇧🇷 Dual citizen (Portugal + Brazil)
+- 📚 Tutor for Data Science (EDIT., Toti)
 
 ---
 
