@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rodrigo Moutinho
+---
+
 **Data Analytics Manager @Nestlé | PhD Student @NOVA IMS in Data Science**  
 🔍 Specializing in Data Engineering, Machine Learning, and NLP
 
