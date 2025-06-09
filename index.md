@@ -23,6 +23,7 @@ Currently leading analytics efforts at Nestlé Global and part-time tutor Machin
 - [EDP Web & Financial Pipeline](https://github.com/roasfora/EDP_Project)
 
 ### 🧠 Natural Language Processing (NLP)
+- [Retrieval-Augmented Generation (RAG)](https://github.com/roasfora/rag_app)
 - [FinBERT Sentiment Analyzer (Fine-tuned)](https://github.com/roasfora/fine_tuning)
 - [Semantic FAQ Search (TF-IDF, Word2Vec, SBERT)](https://github.com/roasfora/semantic-search)
 
